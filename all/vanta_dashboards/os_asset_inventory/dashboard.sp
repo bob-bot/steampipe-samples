@@ -2,7 +2,7 @@ dashboard "unsupported_os_versions" {
   title = "Employee Computers with Unsupported OS Versions"
   
   tags = {
-    service = "OS Asset Inventory Dashboards"
+    service = "OS Asset Inventory"
   }
 
   text {

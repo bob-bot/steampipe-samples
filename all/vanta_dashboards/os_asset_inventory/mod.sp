@@ -1,3 +1,3 @@
-mod "os_asset_inventory_dashboards" {
-  title = "OS Asset Inventory Dashboards"
+mod "os_asset_inventory" {
+  title = "OS Asset Inventory"
 }

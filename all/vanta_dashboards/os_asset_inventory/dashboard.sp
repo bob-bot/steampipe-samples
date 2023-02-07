@@ -1,5 +1,9 @@
 dashboard "unsupported_os_versions" {
   title = "Employee Computers with Unsupported OS Versions"
+  
+  tags = {
+    service = "OS Asset Inventory Dashboards"
+  }
 
   text {
     value = "The following list are for employees with unsupported OS versions, currently unmonitored by our auditing tools."
